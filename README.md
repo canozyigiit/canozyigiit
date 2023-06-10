@@ -8,7 +8,7 @@
 
 ### 📫 How to reach me  :
 
-[![Linkedin Badge](https://img.shields.io/badge/canozyigit-%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/can-%C3%B6zyi%C4%9Fit-884568200//)
+[![Linkedin Badge](https://img.shields.io/badge/canozyigit-%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/canozyigiit/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammetcanozyigit@gmail.com)                                                                                                                                              
 ### Languages and Tools ⚒ :
 
